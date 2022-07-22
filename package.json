@@ -10,7 +10,7 @@
     "cookie-parser": "~1.4.4",
     "debug": "~2.6.9",
     "express": "~4.16.1",
-    "file-type": "^14.0.0",
+    "file-type": "^16.5.4",
     "mongoose": "^5.8.10",
     "morgan": "~1.9.1",
     "promise-fs": "^2.1.1",
